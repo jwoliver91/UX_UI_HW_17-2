@@ -1,0 +1,53 @@
+.inline-block{
+    display: inline-block;
+    vertical-align: top;
+}
+nav {
+    width: 98%;
+    padding: 1%;
+    background-image: linear-gradient(grey, white);
+}
+ul{
+    width: 75%;
+    margin-left: 15%;
+}
+h1{
+    font-family: 'Nunito', sans-serif;
+    font-size: 52px;
+    text-transform: uppercase;
+}
+h2 {
+    font-family: 'Nunito', sans-serif;
+    font-size: 50px
+}
+p{
+    font-family: 'Lato', sans-serif;
+
+}
+li{
+    font-family: 'Nunito', sans-serif;
+    font-size: 24;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+.heroImg{
+    height: 600px;
+    padding: 25px;
+}
+.images{
+    margin-left: 50%;
+}
+footer{
+    width: 80%;
+    background-image: linear-gradient(white, grey);
+    margin: 0;
+    padding: 10%;
+}
+ul{
+    display: inline-block;
+    vertical-align: bottom;
+    text-align: right;
+}
+li{ 
+    padding: 25px;
+}

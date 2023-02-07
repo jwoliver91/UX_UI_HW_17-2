@@ -1,0 +1,47 @@
+.inline-block{
+    display: inline-block;
+    vertical-align: top;
+}
+nav {
+    width:73%;
+    padding: 1%;
+}
+ul{
+    width: 50%;
+    margin-left: auto;
+}
+h1{
+    font-family: 'Nunito', sans-serif;
+    font-size: 52px;
+    text-transform: uppercase;
+}
+h2 {
+    font-family: 'Nunito', sans-serif;
+    font-size: 50px
+}
+.heroImg{
+    height: 600px;
+    padding: 25px;
+}
+.images{
+    margin: 75 auto;
+    width: 500px;
+    margin: 25 auto;
+}
+    
+.content{
+    width:500px;
+    margin: 25 auto;
+}
+footer{
+    background-color: #373738;
+    width: 100%;
+    padding: 0%;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+}
+li{ 
+    padding: 25px;
+}
